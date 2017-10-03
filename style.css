@@ -1,0 +1,33 @@
+.topmenu {
+  border: 0!important;
+  box-shadow: none!important;
+}
+
+.topmenu .menu .item {
+  font-weight: bold!important;
+}
+
+.content {
+  height: 500px;
+  background: url("http://murphyshawaii.com/media/2014/04/murphys-front.jpg") no-repeat center center fixed;
+  background-size: cover;
+  color: #ffffff;
+}
+
+.subcontent {
+  height: 100%;
+}
+
+.footer {
+  background-color: #004030;
+  color: #ffffff;
+}
+
+.footer h4{
+  border-bottom: 1px solid #ffffff;
+  padding-bottom: 5px;
+}
+
+.footer .list .item {
+  font-weight: bold!important;
+}
